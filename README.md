@@ -9,6 +9,17 @@ The Image Manager is a Flask-based web application designed to securely manage a
 - Secure image upload to Google Cloud Storage.
 - User-specific image management - upload, view, and delete functionalities.
 - Secure sharing and download of images with time-limited URLs.
+## Screen shots
+SIGNUP PAGE:
+![Signup page](https://github.com/prem465/ImageManager-Project/assets/63437492/383dd10f-d370-4590-935f-97f4643031ca)
+APPLICATION PAGE:
+![application page](https://github.com/prem465/ImageManager-Project/assets/63437492/d753aad6-c104-4899-8b4d-190fb3bd0ac4)
+UPLOADED IMAGES PAGE:
+![Uploaded images page](https://github.com/prem465/ImageManager-Project/assets/63437492/653cfe9a-8898-4ebc-b21f-5625e7b806a9)
+
+
+
+
 
 ## Prerequisites
 Before you begin, ensure you have the following:
@@ -45,3 +56,4 @@ Before you begin, ensure you have the following:
 Run the application using the following command:
 ```sh
 flask run
+
